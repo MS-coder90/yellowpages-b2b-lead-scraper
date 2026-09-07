@@ -23,5 +23,7 @@ The automated pipeline parses the layout to compile critical business datasets:
 2. Install dependencies: `pip install pandas beautifulsoup4 openpyxl`
 3. Execute the script: `python b2b_master_scraper.py`
 
----
-*Developed by Saad Sid — Open for Global Python Automation & Data Engineering Contracts. Contact: saadsid895@gmail.com*
+
+ENJOYYYYYYYYYYYY ANYONE CONTACT ME CHECK MY PROFILE
+
+
